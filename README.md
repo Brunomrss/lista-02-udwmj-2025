@@ -1,3 +1,3 @@
-# lista-02-udwmj-2025
+# udwmj-pratica02
 Lista dois - usabilidade
 
